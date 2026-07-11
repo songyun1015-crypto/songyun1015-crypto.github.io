@@ -5,7 +5,7 @@
 Welcome to my homepage! I am a Master's student in Mathematics at National Taiwan University. 
 
 * **Email:** r12221026@ntu.edu.tw
-* [GitHub](https://github.com/你的使用者名稱) / [Curriculum Vitae](./CV_formal.pdf)<!-- 這裡已經幫你寫好連結到你的CV檔了 -->
+*  [Curriculum Vitae](./CV_formal.pdf)<!-- 這裡已經幫你寫好連結到你的CV檔了 -->
 
 ---
 
