@@ -1,27 +1,18 @@
-# Song-Yun-Chen
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
+Welcome to my homepage! I have just completed my Master's degree in Mathematics at National Taiwan University, under the supervision of Prof. Ting-Yu Lee. I will be pursuing my PhD studies at Imperial College London under the supervision of Prof. Alexei Skorobogatov.
 
-Welcome to my homepage! I am a Master's student in Mathematics at National Taiwan University. 
-
-* **Email:** r12221026@ntu.edu.tw
-*  [Curriculum Vitae](./CV_formal.pdf)<!-- 這裡已經幫你寫好連結到你的CV檔了 -->
+* **Email:** songyun1015@gmail.com
+* [Curriculum Vitae](./CV_formal.pdf)
 
 ---
 
 ## Research Interests
-My research interests generally lie in arithmetic geometry and algebraic groups. Specifically, I am interested in:
-* Unramified Brauer groups and the Bogomolov multiplier.
-* Cohomological invariants of algebraic groups.
+My research interests lie in arithmetic geometry. Specifically, I am interested in the cohomological Brauer group and rational points on algebraic varieties.
 
 ---
 
-## Preprints & Publications
-* *On the Bogomolov Multiplier of Certain Finite Groups*, Preprint (2026).
-
----
-
-## Teaching
-### National Taiwan University
-* **Teaching Assistant**, Algebra (Full-year course, Fall 2025 - Spring 2026)
-  * *Received the Department Award for Excellent Teaching Assistant.*
+## Master's Thesis
+* **Title:** *A Survey on the Bogomolov Multiplier* <!-- 可以把這裡改成你論文的正式名稱 -->
+* **Description:** A self-contained, detailed survey paper exploring the algebraic and geometric aspects of the Bogomolov multiplier.
+* [Thesis (PDF)](./thesis.pdf) <!-- 未來如果你把論文的PDF檔上傳到 GitHub，並命名為 thesis.pdf，這裡點擊就可以直接下載 -->
