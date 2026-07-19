@@ -1,7 +1,7 @@
 
 ## Song-Yun Chen (陳嵩昀)
 <!-- 個人照片設定：width="180" 可以自由調整照片寬度像素 -->
-<img src="./profile.jpg" width="150" alt="Song-Yun Chen" style="border-radius: 8px; float: left; margin-right: 40px; margin-bottom: 20px;">
+<img src="./profile.jpg" width="150" alt="Song-Yun Chen" style="border-radius: 8px; float: right; margin-left: 40px; margin-bottom: 20px;">
 
 Welcome to my homepage! I have just completed my Master's degree in Mathematics at National Taiwan University, under the supervision of [Prof. Ting-Yu Lee](https://www.math.ntu.edu.tw/entity_people/entity_people/21720). I will be pursuing my PhD studies at Imperial College London under the supervision of [Prof. Alexei Skorobogatov](https://profiles.imperial.ac.uk/a.skorobogatov).
 
