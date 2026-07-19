@@ -17,6 +17,4 @@ My research interests lie in arithmetic geometry. Specifically, I am interested 
 ---
 
 ## Master's Thesis
-* **Title:** *A Survey on the Bogomolov Multiplier*
-* **Description:** A self-contained, detailed survey paper exploring the algebraic and geometric aspects of the Bogomolov multiplier.
-* [Thesis (PDF)](./thesis.pdf) <!-- 未來如果你把論文的PDF檔上傳到 GitHub，並命名為 thesis.pdf，這裡點擊就可以直接下載 -->
+* [The Local-Global Principle for Prescribed Norm Problem](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/102415)) <!-- 未來如果你把論文的PDF檔上傳到 GitHub，並命名為 thesis.pdf，這裡點擊就可以直接下載 -->
